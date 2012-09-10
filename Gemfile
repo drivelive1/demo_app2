@@ -18,8 +18,6 @@ end
 
 gem 'jquery-rails', '2.0.2'
 
-gem ’rb-readline’
-
 group :production do
   gem 'pg', '0.12.2'
 end
